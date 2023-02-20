@@ -1,0 +1,23 @@
+2023-02-20 16:01:19.256 | INFO     | - operations: 2
+2023-02-20 16:01:19.256 | INFO     | - examples found: 0
+2023-02-20 16:01:19.257 | INFO     | - uncovered combinations: 1, sequence length: 2
+2023-02-20 16:01:19.258 | INFO     | - uncovered combinations: 0, sequence length: 2
+2023-02-20 16:01:19.258 | DEBUG    | - 1-th operation: get*https://1forge.com/forex-quotes/symbols
+2023-02-20 16:01:20.044 | INFO     | -         1-th operation essential parameters covering array size: 1, parameters: 0, constraints: 0
+2023-02-20 16:01:20.549 | INFO     | -         1-th operation all parameters covering array size: 1, parameters: 0
+2023-02-20 16:01:20.549 | INFO     | - ****************************************************************************************************
+2023-02-20 16:01:20.967 | DEBUG    | - 2-th operation: get*https://1forge.com/forex-quotes/quotes
+2023-02-20 16:01:21.737 | INFO     | -         2-th operation essential parameters covering array size: 1, parameters: 0, constraints: 0
+2023-02-20 16:01:22.218 | INFO     | -         2-th operation all parameters covering array size: 1, parameters: 0
+2023-02-20 16:01:22.219 | INFO     | - ****************************************************************************************************
+2023-02-20 16:01:22.636 | INFO     | -    unresolved parameters: set()
+2023-02-20 16:01:22.637 | DEBUG    | - 1-th operation: get*https://1forge.com/forex-quotes/quotes
+2023-02-20 16:01:23.353 | INFO     | -         1-th operation essential parameters covering array size: 1, parameters: 0, constraints: 0
+2023-02-20 16:01:23.582 | INFO     | -         1-th operation all parameters covering array size: 1, parameters: 0
+2023-02-20 16:01:23.583 | INFO     | - ****************************************************************************************************
+2023-02-20 16:01:23.894 | DEBUG    | - 2-th operation: get*https://1forge.com/forex-quotes/symbols
+2023-02-20 16:01:24.522 | INFO     | -         2-th operation essential parameters covering array size: 1, parameters: 0, constraints: 0
+2023-02-20 16:01:24.911 | INFO     | -         2-th operation all parameters covering array size: 1, parameters: 0
+2023-02-20 16:01:24.912 | INFO     | - ****************************************************************************************************
+2023-02-20 16:01:25.305 | INFO     | -    unresolved parameters: set()
+2023-02-20 16:01:25.306 | INFO     | - demo1,2,3,2,2,2.00,1.00,1.00,2,0,8,0.10
